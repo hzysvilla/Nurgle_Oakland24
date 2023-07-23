@@ -1,0 +1,588 @@
+﻿Ethereum Mainnet
+BNB Smart Chain Mainnet
+Arbitrum One
+Polygon Mainnet
+OP Mainnet
+Avalanche C-Chain
+Cronos Mainnet Beta
+Kava EVM
+Klaytn Mainnet Cypress
+Fusion Mainnet
+OKXChain Mainnet
+Celo Mainnet
+RSK Mainnet
+Fantom Opera
+Gnosis
+Huobi ECO Chain Mainnet
+Canto
+Moonbeam
+KCC Mainnet
+Metis Andromeda Mainnet
+Astar
+Filecoin - Mainnet
+Telos EVM Mainnet
+Aurora Mainnet
+IoTeX Network Mainnet
+Songbird Canary-Network
+Meter Mainnet
+Vision - Mainnet
+Smart Bitcoin Cash
+Wanchain
+Moonriver
+Ultron Mainnet
+Zilliqa EVM
+Core Blockchain Mainnet
+ThunderCore Mainnet
+XinFin XDC Network
+Harmony Mainnet Shard 0
+Dogechain Mainnet
+Carbon EVM
+Boba Network
+Velas EVM Mainnet
+Evmos
+Oasis Emerald
+CoinEx Smart Chain Mainnet
+Fuse Mainnet
+Theta Mainnet
+Elastos Smart Chain
+Rollux Mainnet
+Nahmii Mainnet
+Nova Network
+Bitgert Mainnet
+Godwoken Mainnet
+Tomb Chain Mainnet
+Callisto Mainnet
+Energy Web Chain
+Step Network
+TomoChain
+Ethereum Classic Mainnet
+Syscoin Mainnet
+LoopNetwork Mainnet
+Zyx Mainnet
+Ubiq
+Shiden
+REI Chain Mainnet
+High Performance Blockchain
+GoChain
+REI Network
+Palm
+Kekchain
+Omax Mainnet
+Expanse Network
+ThaiChain
+Metadium Mainnet
+Flare Mainnet
+Diode Prenet
+ThaiChain 2.0 ThaiFi
+ELA-DID-Sidechain Mainnet
+KardiaChain Mainnet
+ShibaChain
+Genesis L1
+GoodData Mainnet
+TBWG Chain
+Dxchain Mainnet
+SeedCoin-Network
+Valorbit
+LUKSO Mainnet
+Darwinia Crab Network
+Darwinia Network
+Acria IntelliChain
+Ennothem Mainnet Proterozoic
+XDC Apothem Network
+Openpiece Mainnet
+Ontology Mainnet
+EOS EVM Legacy
+Ellaism
+SoterOne Mainnet
+Hoo Smart Chain
+FNCY
+IDChain Mainnet
+Decimal Smart Chain Mainnet
+Mix
+POA Network Sokol
+PrimusChain mainnet
+Zenith Mainnet
+GeneChain
+GateChain Mainnet
+Garizon Stage0
+Garizon Stage1
+Garizon Stage2
+Garizon Stage3
+SwissDLT
+CamDL Mainnet
+Bitkub Chain
+Six Protocol
+POA Network Core
+EtherInc
+EtherLite Chain
+Coinbit Mainnet
+Dehvo
+DeBank Mainnet
+Uptick Mainnet
+ENULS Mainnet
+Realchain Mainnet
+Fuse Sparknet
+Decentralized Web Mainnet
+OYchain Mainnet
+Factory 127 Mainnet
+iExec Sidechain
+Deamchain Mainnet
+Defi Oracle Meta Mainnet
+WoopChain Mainnet
+DAX CHAIN
+PHI Network v2
+Armonia Eva Chain Mainnet
+Lightstreams Mainnet
+AIOZ Network
+AME Chain Mainnet
+Seele Mainnet
+BMC Mainnet
+Crypto Emergency
+OKBChain Mainnet
+BitTorrent Chain Mainnet
+Arbitrum on xDai
+Structx Mainnet
+Freight Trust Network
+SiriusNet V2
+SoterOne Mainnet old
+Permission
+LACHAIN Mainnet
+SwapDEX
+Plinga Mainnet
+Oasys Mainnet
+Setheum
+Neonlink Mainnet
+SUR Blockchain Network
+EgonCoin Mainnet
+LaChain
+Hedera Mainnet
+Hedera Previewnet
+Hedera Localnet
+(deprecated) Optimism on GC
+Bobaopera
+Neurochain Mainnet
+zkSync Era Mainnet
+Web3Q Mainnet
+PulseChain
+Lisinski
+SX Network Mainnet
+PGN (Public Goods Network)
+Zeeth Chain
+ARZIO Chain
+Rupaya
+Camino C-Chain
+Double-A Chain Mainnet
+Gear Zero Network Mainnet
+XT Smart Chain Mainnet
+Firechain Mainnet
+F(x)Core Mainnet Network
+Candle
+Vela1 Chain Mainnet
+Tao Network
+Graphlinq Blockchain Mainnet
+Avocado
+Endurance Smart Chain Mainnet
+Karura Network
+BlockChain Station Mainnet
+Shibarium Beta
+Lycan Chain
+QL1
+cheapETH
+MAAL Sharia Chain
+Acala Network
+Patex
+Lucid Blockchain
+Haic
+Qitmeer
+BeOne Chain Mainnet
+Taraxa Mainnet
+Zeeth Chain Dev
+Fantasia Chain Mainnet
+Bandai Namco Research Verse Mainnet
+Dexit Network
+Ambros Chain Mainnet
+Portal Fantasy Chain
+Oort Mainnet
+Oort Huygens
+Oort Ascraeus
+Nepal Blockchain Network
+TOP Mainnet EVM
+Memo Smart Chain Mainnet
+TOP Mainnet
+5ireChain Thunder
+Lucky Network
+GTON Mainnet
+Eurus Mainnet
+Evrice Network
+Newton
+Sakura
+CLV Parachain
+Conflux eSpace
+Bronos Mainnet
+MOAC mainnet
+Polygon zkEVM
+WEMIX3.0 Mainnet
+Dogcoin Mainnet
+DeFiChain EVM Network Mainnet
+MathChain
+Symplexia Smart Chain
+Iora Chain
+World Trade Technical Chain Mainnet
+Popcateum Mainnet
+EnterChain Mainnet
+Exzo Network Mainnet
+ARC Mainnet
+OM Platform Mainnet
+HALO Mainnet
+Moonrock old
+Moonbase Alpha
+Moonrock
+Bobabeam
+Dos Fuji Subnet
+Alyx Mainnet
+Aitd Mainnet
+Elysium Mainnet
+CIC Chain Mainnet
+Zafirium Mainnet
+AmStar Mainnet
+Joseon Mainnet
+Rikeza Network Mainnet
+Living Assets Mainnet
+Ctex Scan Blockchain
+BEVM
+Sherpax Mainnet
+Beagle Messaging Chain
+Tenet
+Catecoin Chain Mainnet
+Atheios
+Btachain
+LUDAN Mainnet
+Anytype EVM Chain
+TBSI Mainnet
+Palette Chain Mainnet
+PartyChain
+Gauss Mainnet
+Cube Chain Mainnet
+Teslafunds
+Lightlink Phoenix Mainnet
+BON Network
+Bitcichain Mainnet
+D-Chain Mainnet
+Super Smart Chain Mainnet
+ONUS Chain Mainnet
+EtherGem
+Ekta
+Milkomeda C1 Mainnet
+Milkomeda A1 Mainnet
+CloudWalk Mainnet
+MainnetZ Mainnet
+PublicMint Mainnet
+Edgeware EdgeEVM Mainnet
+Rangers Protocol Mainnet
+OriginTrail Parachain
+Shrapnel Subnet
+Stratos Mainnet
+Quokkacoin Mainnet
+Ecoball Mainnet
+Exosama Network
+Metaplayerone Mainnet
+BOSagora Mainnet
+Findora Mainnet
+Findora Forge
+Moonsama Network
+Antofy Mainnet
+Bitcoin EVM
+Evanesco Mainnet
+VChain Mainnet
+BOMB Chain
+Arevia
+Altcoinchain
+SOMA Network Mainnet
+TCG Verse Mainnet
+XODEX
+Kortho Mainnet
+TechPay Mainnet
+PoCRNet
+Redlight Chain Mainnet
+EZChain C-Chain Mainnet
+BitYuan Mainnet
+CENNZnet Rata
+CENNZnet Nikau
+Canxium Mainnet
+PLAYA3ULL GAMES
+Orlando Chain
+Bifrost Mainnet
+Web3Q Galileo
+Paribu Net Mainnet
+JFIN Chain
+PandoProject Mainnet
+Botanix Mainnet
+Jouleverse Mainnet
+Bittex Mainnet
+Empire Network
+SenjePowers Mainnet
+Crossbell
+AlveyChain Mainnet
+DRAC Network
+DOS Tesnet
+DYNO Mainnet
+YuanChain Mainnet
+Ozone Chain Mainnet
+Nahmii 3 Mainnet
+Bitindi Mainnet
+PHI Network V1
+Nexi Mainnet
+Htmlcoin Mainnet
+Venidium Mainnet
+BlackFort Exchange Network
+Mantle
+Fastex Chain (Bahamut)
+TLChain Network Mainnet
+EraSwap Mainnet
+Humanode Mainnet
+Firechain Mainnet Old
+Uzmi Network Mainnet
+Chain Verse Mainnet
+Wegochain Rubidium Mainnet
+Tres Mainnet
+UPTN
+Peerpay
+Pixie Chain Mainnet
+IRIShub
+Gold Smart Chain Mainnet
+PolySmartChain
+ZetaChain Mainnet
+Ella the heart
+Planq Mainnet
+Bitrock Mainnet
+KLYNTAR
+Horizen EON
+Shyft Mainnet
+Raba Network Mainnet
+MEVerse Chain Mainnet
+Adil Chain V2 Mainnet
+The Root Network - Mainnet
+Canto Tesnet
+ARDENIUM Athena
+DOS Chain
+Teleport
+Shardeum Liberty 1.X
+Shardeum Liberty 2.X
+Shardeum Sphinx 1.X
+BitEth
+StreamuX Blockchain
+Qitmeer Network Mixnet
+Qitmeer Network Privnet
+Amana
+Flana
+Mizana
+Blockton Blockchain
+Dracones Financial Services
+Base
+Toki Network
+TOOL Global Mainnet
+Alph Network
+TMY Chain
+MARO Blockchain Mainnet
+Unique
+Quartz by Unique
+Sapphire by Unique
+XANAChain
+Vyvo Smart Chain
+Mammoth Mainnet
+JIBCHAIN L1
+Giant Mammoth Mainnet
+bloxberg
+BerylBit Mainnet
+Genesis Coin
+Codefin Mainnet
+Oort MainnetDev
+PepeNetwork Mainnet
+Gon Chain
+SJATSH
+Blockchain Genesis Mainnet
+0XTade
+Numbers Mainnet
+CryptoCoinPay
+Quadrans Blockchain
+Astra
+WAGMI
+HashBit Mainnet
+Haqq Network
+SanR Chain
+SatoshiChain Mainnet
+Singularity ZERO Mainnet
+BRC Chain Mainnet
+Fibonacci Mainnet
+SPS
+Credit Smartchain Mainnet
+Phoenix Mainnet
+Susono
+MetaDot Mainnet
+Genesys Mainnet
+AirDAO Mainnet
+EOS EVM Network
+Proof Of Memes
+MXC zkEVM Mainnet
+HOME Verse Mainnet
+BTCIX Network
+Camelark Mainnet
+P12 Chain
+CENNZnet Azalea
+omChain Mainnet
+Taycan
+MAP Mainnet
+Oasis Sapphire
+Webchain
+MintMe.com Coin
+Hammer Chain Mainnet
+Hertz Network Mainnet
+OasisChain Mainnet
+Ethersocial Network
+CloudTx Mainnet
+Aves Mainnet
+J2O Taro
+Q Mainnet
+Energi Mainnet
+OHO Mainnet
+Opulent-X BETA
+pegglecoin
+Arbitrum Nova
+Athereum
+Boba Avax
+Frenchain
+Autobahn Network
+Liveplex OracleEVM
+Sardis Mainnet
+DFK Chain
+Titan
+Boba BNB Mainnet
+Sepolia PGN (Public Goods Network)
+AxelChain Dev-Net
+Etica Mainnet
+DoKEN Super Chain Mainnet
+MultiVAC Mainnet
+eCredits Mainnet
+Scolcoin Mainnet
+SiriusNet
+Cosmic Chain
+Thinkium Mainnet Chain 0
+Thinkium Mainnet Chain 1
+Thinkium Mainnet Chain 2
+Thinkium Mainnet Chain 103
+GuapcoinX
+Mixin Virtual Machine
+ResinCoin Mainnet
+Vention Smart Chain Mainnet
+Toronet Mainnet
+Dragonfly Mainnet (Hexapod)
+Amana Mixnet
+Amana Privnet
+Flana Mixnet
+Flana Privnet
+Mizana Mixnet
+Mizana Privnet
+CYBERTRUST
+IVAR Chain Mainnet
+Boba BNB Mainnet Old
+UB Smart Chain
+QuarkChain Mainnet Root
+QuarkChain Mainnet Shard 0
+QuarkChain Mainnet Shard 1
+QuarkChain Mainnet Shard 2
+QuarkChain Mainnet Shard 3
+QuarkChain Mainnet Shard 4
+QuarkChain Mainnet Shard 5
+QuarkChain Mainnet Shard 6
+QuarkChain Mainnet Shard 7
+VeChain
+Deprecated CHI
+Crystaleum
+﻿BROChain Mainnet
+Siberium Network
+Metachain One Mainnet
+ETND Chain Mainnets
+ICPlaza Mainnet
+Taiko Grimsvotn L2
+Taiko Eldfell L3
+Akroma
+Alaya Mainnet
+Mythical Chain
+PlatON Mainnet
+Mas Mainnet
+Taf ECO Chain Mainnet
+ARTIS sigma1
+CMP-Mainnet
+Social Smart Chain Mainnet
+TTcoin Smart Chain Mainnet
+Polis Mainnet
+Metal C-Chain
+Metal Tahoe C-Chain
+Tipboxcoin Mainnet
+Markr Go
+Dexalot Subnet
+OpenChain Mainnet
+ethereum Fair
+Scroll
+Shinarium Beta
+BeanEco SmartChain
+Bear Network Chain Mainnet
+ALL Mainnet
+OctaSpace
+CURVE Mainnet
+4GoodNetwork
+Posichain Mainnet Shard 0
+Eluvio Content Fabric
+Etho Protocol
+Xerom
+Kiln
+Zhejiang
+Plian Mainnet Main
+AltLayer Zero Gas Network
+Worlds Caldera
+Imversed Mainnet
+Saakuru Mainnet
+OpenVessel
+Musicoin
+Zora
+Plian Mainnet Subchain 1
+HAPchain
+Quarix
+Soverun Mainnet
+PepChain Churchill
+Anduschain Mainnet
+IOLite
+SmartMesh Mainnet
+quarkblockchain
+Pego Network
+Excelon Mainnet
+Excoincial Chain Mainnet
+Auxilium Network Mainnet
+Flachain Mainnet
+Joys Digital Mainnet
+Aquachain
+T.E.A.M Blockchain
+Gather Mainnet Network
+Neon EVM MainNet
+Razor Skale Chain
+OneLedger Mainnet
+Meld
+Nebula Staging
+IPOS Network
+CyberdeckNet
+HUMAN Protocol
+Aurora Betanet
+RaptorChain
+Nebula Mainnet
+Calypso NFT Hub (SKALE)
+Harmony Mainnet Shard 1
+Harmony Mainnet Shard 2
+Harmony Mainnet Shard 3
+DataHopper
+Europa SKALE Chain
+Pirl
+Alphabet Mainnet
+Ntity Mainnet
+Zeniq
+PDC Mainnet
+Molereum Network

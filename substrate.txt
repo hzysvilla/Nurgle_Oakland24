@@ -1,0 +1,153 @@
+﻿Acala Network
+acurast
+Adoriasoft
+AirGap
+Ajuna Network
+Aleph Zero
+AnKR
+Apron Labs
+Astar Network
+Attic Lab
+Automata Network
+Avado
+Aventus
+Band Protocol
+Bifrost
+Bison Trails
+Bit.Country
+BitGreen
+Blockdaemon
+Bluzelle
+Borlaug Web Services
+Caelum Labs
+Celer Network
+Centrifuge
+Cere
+Cess
+Chainflip Labs
+ChainLink
+ChainSafe
+ChainX
+Chocolate
+Chronicled
+Creator
+Crust Network
+Darwinia
+Data Highway
+DatDot
+Deep Brain Chain
+Deeper Network
+Dether
+DIA
+Dock
+Dora Factory
+Edgeware
+Encointer
+Energy Web Foundation
+Enjin
+Equilibrium.co
+Equilibrium
+ETCDEV
+Evercity
+Everdream Soft
+Everstake
+Faber
+Figment
+Firefly
+FlexDapps
+Fractal
+GameDAO
+Geefu
+GIANT
+Guarda
+Halva
+HashKey Me
+HashQuark
+HydraDX
+Imbue Network
+ImToken
+Injective Protocol
+Insight
+Integritee
+Interlay
+InvArch
+Joystream
+Kilt Protocol
+Konomi
+Kulupu
+Kusama Network
+Kylin Network
+Laminar
+Ledger Integration
+Limechain
+Linear.Finance
+Litentry
+Mangata
+Manta Network
+MantraDAO
+Math Wallet
+MathChain
+Matter Labs
+MixBytes
+Moonbeam
+Moonpay
+Node Factory
+Nodle
+Nova Wallet
+OAX
+Obsidian Labs
+On Finality
+Ontology
+Origin Trail
+Parallel Finance
+Patract Labs
+peaq
+Pendulum
+Phala Network
+Polimec
+Polkadex
+Polkadot Network
+Polkahub
+Polkascan
+Polkassembly
+Polkastats
+Polkaswap
+Polkawallet
+Polymath
+Pontem Network
+Project Aria
+Ren Project
+Rio Chain
+Robonomics (Airalabs)
+Runtime Verification
+Safe Pal
+Second State
+Sensorium Corporation
+SHIFT Project
+Shyft Network
+SkyeKiwi
+Snowfork
+Social.network
+Solang Compiler
+Stafi Protocol
+Sub.ID
+Subscan
+SubSocial
+Subspace Network
+Subsquid
+SubWallet
+SushiSwap
+Swisscom Blockchain
+t3rn
+Talisman
+TEA Project
+Totem Accounting
+TPFS (Transparent Systems)
+Trust Wallet
+Unique Network
+Virto
+Wunderbar Network
+xx network
+zCloak Network
+ZeroPool
+Zondax
