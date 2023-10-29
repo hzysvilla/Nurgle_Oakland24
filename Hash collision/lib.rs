@@ -12,7 +12,7 @@ extern crate rayon;
 extern crate separator;
 extern crate terminal_size;
 extern crate tiny_keccak;
-
+use std::ops::Add;
 use std::error::Error;
 use std::i64;
 use std::io::prelude::*;
@@ -179,9 +179,20 @@ pub fn gpu(config: Config) -> ocl::Result<()> {
 
     let mut work_duration_millis: u64 = 0;
 
-    loop {
-        let salt = rng.gen_iter::<u8>().take(12).collect::<Vec<u8>>();
+    let mut n = num::BigInt::from(0);
+    let mut zeronum= num::BigInt::from(0);
 
+    loop {
+        let (_, bytes) = n.to_bytes_be();
+        let mut salt: Vec<u8> = Vec::new();
+        let l = bytes.len();
+        if l < 12 {
+            salt.extend(vec![0u8; 12 - l].iter());
+            salt.extend(bytes);
+        } else {
+            salt.extend(&bytes[(l - 12)..l]);
+        }
+  
         let message: [u8; 12] = to_fixed_12(&salt);
 
         let message_buffer = Buffer::builder()
@@ -190,8 +201,8 @@ pub fn gpu(config: Config) -> ocl::Result<()> {
                                .len(12)
                                .copy_host_slice(&message)
                                .build()?;
-
-        let mut nonce: [u32; 1] = [rng.next_u32()];
+        
+        let mut nonce: [u32; 1] = [0];
         let mut view_buf = [0; 8];
 
         let mut nonce_buffer = Buffer::builder()
@@ -233,6 +244,10 @@ pub fn gpu(config: Config) -> ocl::Result<()> {
             solutions_buffer.read(&mut solutions).enq()?;
 
             if solutions[0] != 0 {
+                break;
+            }
+
+            if nonce[0]==4294967295{
                 break;
             }
 
@@ -333,6 +348,7 @@ pub fn gpu(config: Config) -> ocl::Result<()> {
                 std::process::exit(2);
             }
         });
+        n = n.add(1);
     }
 }
 
